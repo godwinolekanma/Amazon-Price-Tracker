@@ -33,3 +33,6 @@ This Python script allows you to track the price of a product on Amazon and rece
 - BUY_PRICE: Desired buy price for the product.
 - MY_MAIL: Your Gmail email address.
 - PASSWORD: Your Gmail account password (you may need to enable "less secure apps" in your Gmail settings).
+
+## Note 
+- use pythonanywhere to run this code everyday https://www.pythonanywhere.com/
